@@ -1,7 +1,3 @@
-Here's a GitHub README file format based on the Clash-Crypto-Token project details and your previous specifications:
-
----
-
 # Clash Crypto Token
 
 This repository contains the **Clash Crypto Token** project, which focuses on creating a cryptocurrency token and managing its smart contracts on the Internet Computer platform. Developed with **Motoko** for smart contract logic and **JavaScript, CSS, and HTML** for the frontend, this project enables users to interact with the deployed token in a seamless, decentralized environment.
