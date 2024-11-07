@@ -58,9 +58,4 @@ This repository contains the **Clash Crypto Token** project, which focuses on cr
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with any enhancements, bug fixes, or new features.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-This README provides an overview of the project, installation instructions, usage details, and contributions guidelines, making it straightforward for others to understand and use the Clash-Crypto-Token project.
